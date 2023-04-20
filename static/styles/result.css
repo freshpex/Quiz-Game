@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to right, #c95be5, #863e42);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+  }
+
+  h3{
+    text-shadow: 1.5px 1.5px rgb(241, 7, 7);
+    font-size: 4rem;
+  }
+
+  h4 {
+    text-shadow: 1px 1px #333;
+    font-size: 2rem;
+    margin-top: 10rem;
+  }
+ 
+  
